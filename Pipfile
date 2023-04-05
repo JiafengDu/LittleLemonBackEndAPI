@@ -8,6 +8,8 @@ django = "*"
 mysqlclient = "*"
 djoser = "*"
 django-filter = "*"
+djangorestframework = "*"
+djangorestframework-xml = "*"
 bleach = "*"
 
 [dev-packages]
